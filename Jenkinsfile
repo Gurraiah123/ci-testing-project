@@ -14,7 +14,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git 'https://github.com/YOUR_USERNAME/node-ci-project.git'
+                git 'https://github.com/Gurraiah123/ci-testing-project.git'
             }
         }
 
