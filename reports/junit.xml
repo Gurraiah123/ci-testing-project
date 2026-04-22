@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="0.682">
+  <testsuite name="GET /add" errors="0" failures="0" skipped="0" timestamp="2026-04-22T08:15:19" time="0.53" tests="1">
+    <testcase classname="GET /add returns correct sum" name="GET /add returns correct sum" time="0.035">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2026-04-22T08:15:20" time="0.072" tests="2">
+    <testcase classname=" adds numbers correctly" name=" adds numbers correctly" time="0.001">
+    </testcase>
+    <testcase classname=" multiplies numbers correctly" name=" multiplies numbers correctly" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
